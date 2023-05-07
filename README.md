@@ -1,4 +1,4 @@
-# Krittika Convener Selections 2022
+# Krittika Convener Selections 2023
 ### Python Assignment
 
 What to do:
